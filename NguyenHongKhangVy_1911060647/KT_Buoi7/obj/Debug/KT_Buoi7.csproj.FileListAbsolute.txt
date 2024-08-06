@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\KT_Buoi7\KT_Buoi7\bin\Debug\KT_Buoi7.exe.config
+C:\Users\Administrator\source\repos\KT_Buoi7\KT_Buoi7\bin\Debug\KT_Buoi7.exe
+C:\Users\Administrator\source\repos\KT_Buoi7\KT_Buoi7\bin\Debug\KT_Buoi7.pdb
+C:\Users\Administrator\source\repos\KT_Buoi7\KT_Buoi7\obj\Debug\KT_Buoi7.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\KT_Buoi7\KT_Buoi7\obj\Debug\KT_Buoi7.FrmSinhVien.resources
+C:\Users\Administrator\source\repos\KT_Buoi7\KT_Buoi7\obj\Debug\KT_Buoi7.Properties.Resources.resources
+C:\Users\Administrator\source\repos\KT_Buoi7\KT_Buoi7\obj\Debug\KT_Buoi7.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\KT_Buoi7\KT_Buoi7\obj\Debug\KT_Buoi7.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\KT_Buoi7\KT_Buoi7\obj\Debug\KT_Buoi7.exe
+C:\Users\Administrator\source\repos\KT_Buoi7\KT_Buoi7\obj\Debug\KT_Buoi7.pdb
